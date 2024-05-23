@@ -6,8 +6,9 @@
 
     ```bash
     mkdir currency_project
-    git clone https://github.com/SusumoHiroku/Test_HELSI.git
     cd currency_project
+    git clone https://github.com/SusumoHiroku/Test_HELSI.git
+
     ```
 
 2. Создайте и активируйте виртуальное окружение:
